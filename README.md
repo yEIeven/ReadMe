@@ -1,2 +1,2 @@
 I'm a Software Developer, mainly working with C#/AspNet. I also have an interest in Software Architecture.
-Here is my cV
+Here is my [CV](https://github.com/yEIeven/ReadMe/blob/main/Curriculo%20EN-New.pdf)  
