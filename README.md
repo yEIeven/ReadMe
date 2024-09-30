@@ -4,5 +4,5 @@ I'm a Software Developer, mainly working with C#/AspNet. I also have an interest
 
 Here is my [CV](https://github.com/yEIeven/ReadMe/blob/main/Curriculo%20EN-New.pdf)  
 
-https://github.com/yEIeven/ReadMe/blob/main/csharp.png
+![Tecnologies]https://github.com/yEIeven/ReadMe/blob/main/csharp.png
 
