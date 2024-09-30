@@ -21,7 +21,7 @@ Here is my [CV](https://github.com/yEIeven/ReadMe/blob/main/Curriculo%20EN-New.p
 # My core Projects are just below
 <p>Apis Development</p>
 <p>Database Configuration</p>
-<p>CRUD System</p>
-<p>AI OCR</p>
-<p>Scraping With Selenium and others </p>
+<p>Crud System</p>
+<p>Ai Ocr</p>
+<p>Scraping With Selenium...</p>
 
