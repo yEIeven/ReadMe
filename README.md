@@ -22,6 +22,6 @@ Here is my [CV](https://github.com/yEIeven/ReadMe/blob/main/Curriculo%20EN-New.p
 <p>Apis Development</p>
 <p>Database Configuration</p>
 <p>Crud System</p>
-<p>Ai Ocr</p>
+<p>Ai OCR</p>
 <p>Scraping With Selenium...</p>
 
